@@ -1,0 +1,5 @@
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

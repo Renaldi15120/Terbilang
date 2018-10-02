@@ -1,0 +1,11 @@
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\bin\Debug\WindowsFormsTerbilang.exe.config
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\bin\Debug\WindowsFormsTerbilang.exe
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\bin\Debug\WindowsFormsTerbilang.pdb
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\bin\Debug\ClassLibrary1.dll
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\bin\Debug\ClassLibrary1.pdb
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\obj\Debug\WindowsFormsTerbilang.csprojResolveAssemblyReference.cache
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\obj\Debug\WindowsFormsTerbilang.Form1.resources
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\obj\Debug\WindowsFormsTerbilang.Properties.Resources.resources
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\obj\Debug\WindowsFormsTerbilang.csproj.GenerateResource.Cache
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\obj\Debug\WindowsFormsTerbilang.exe
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 2\WindowsFormsTerbilang\WindowsFormsTerbilang\obj\Debug\WindowsFormsTerbilang.pdb
